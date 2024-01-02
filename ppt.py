@@ -19,7 +19,7 @@ def make_request(url, headers):
     
 headers = {
     'X-Api-Version': '3',
-    'Authorization': 'ffd35a12c12ad9223dfb0779a056ed',
+    'Authorization': API_TOKEN,
     'Accept': 'application/json'
 }
 
